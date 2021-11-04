@@ -1,6 +1,6 @@
-# FirstWebpage
-[My Lab website](https://www.centerforappliedcogsci.com)
+# Hi, I'm Faiz Hashmi 
+![Faiz Hashmi (FAH647)](https://user-images.githubusercontent.com/79614293/140413060-cc274944-c32e-4ad6-91ec-28f64e30a7a4.jpeg)
 
-[My Bio Absolute](https://github.com/faizhashmi04/FirstWebpage/blob/main/MyBio.md)
+[I work in this lab](https://www.centerforappliedcogsci.com)
 
-[My Bio Relative](MyBio.md)
+[This is my biography](MyBio.md)
