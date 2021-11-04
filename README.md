@@ -1,5 +1,5 @@
 # Hi, I'm Faiz Hashmi 
-<img src="https://user-images.githubusercontent.com/79614293/140413060-cc274944-c32e-4ad6-91ec-28f64e30a7a4.jpeg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/79614293/140413060-cc274944-c32e-4ad6-91ec-28f64e30a7a4.jpeg" width="408" height="612">
 
 [I work in this lab](https://www.centerforappliedcogsci.com)
 
