@@ -4,3 +4,5 @@
 [I work in this lab](https://www.centerforappliedcogsci.com)
 
 [This is my biography](MyBio.md)
+
+[Hey, this is a documnetry I made in 2018](https://youtu.be/yhff4Mq_rbg)
